@@ -1,6 +1,6 @@
 [package]
 name = "rust-lib"
-version = "0.1.0"
+version = "0.1.0" # refer to semver
 edition = "2021"
 description = "A rust lib template that can publish to crates.io"
 authors = ["Zerounary <gmail_ilak@163.com>"]
